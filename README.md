@@ -1,3 +1,5 @@
+<!--- RM 11:36 --->
+
 # MarkDown Resume
 ### Everything I need in this markage language
 
@@ -74,10 +76,14 @@ int main() {
 
 ---
 ## '[text]' and '(URL "Title")' - Link
-Markdown emojis [here](https://github.com/ikatyang/emoji-cheat-sheet "GitHub Repository")
+Markdown emojis [here](https://github.com/ikatyang/emoji-cheat-sheet "MD Emojis GitHub Repository")
+Badges [here](https://github.com/almemanuel/Badges4-README.md-Profile "MD Badges GitHub Repository")
 
 ---
 ## '![alternative text]' and '(image location)' - Image
 ![Dwight Schrute](https://images-na.ssl-images-amazon.com/images/I/318CwoeT9vL._AC_.jpg "Hannibal")
 
 ---
+##### It's the basic
+
+<!--- RM 11:36 --->
