@@ -16,41 +16,40 @@
 
 ---
 ## '*'- Enfasis
-This language is *easy* to read and to write
+If I don’t have some cake soon, *I might die*.
 
 ---
 ## '**' or '__'- Strong
-Markdown is used on **Notion** app, **Discord** app and repositories **README**
+Angela’s cats are so cute, you just wanna eat ‘em. **But you can’t eat cats**…
 
 ---
 ## '_'- Italic
-_Loren epsun_
+Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed’s brain, _I opened up a Word document on his computer and put an address at the top_. I’ve read some of it. Even for the internet, it’s… pretty shocking.
 
 ---
 ## '.' - Ordened List
 Just use a period after the index. __Example__:
 
-1. Patriots
-2. Celtics
-3. Red Sox
+1. No office romances, no way
+2. Just do it
 
 ---
 ## '* ' or '- ' - Non-Ordened List
-* 49ers
-* Warriors
-* Giants
+* **H**onest
+* **E**mpathy
+* **R**espect
+* **O**pen Mindedness
 
 ---
 ## '- [ ]' - Checkbox
 '[x]' to checked
 
-- [x] Study
-- [ ] Read
-- [x] Run
+- [ ] Gave up drinking
+- [x] During the week
 
 ---
 ## '>' - Quote
-> I'm your father
+> You only live once? False. You live every day. You only die once.
 
 ---
 ## '`' - Inline Code
@@ -58,7 +57,7 @@ To print *That's what she said* in **Python**, enter `print("That's what she sai
 
 ---
 ## '```' - Code Block
-To print *No, God, please, no, no* in **C**, use:
+To print *I'm not supertitious, but I'm a little stitious* in **C**, use:
 ```C
 #include <stdio.h>
 
