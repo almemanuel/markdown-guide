@@ -62,7 +62,7 @@ To print *I'm not supertitious, but I'm a little stitious* in **C**, use:
 #include <stdio.h>
 
 int main() {
-    printf("No, God, please, no, no");
+    printf("I'm not supertitious, but I'm a little stitious");
     return 0;
 }
 ```
